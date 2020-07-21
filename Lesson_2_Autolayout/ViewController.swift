@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     func myFun()
     {
         print("My name is tanvi")
+    print("my name is nikunj")
     }
 
 
